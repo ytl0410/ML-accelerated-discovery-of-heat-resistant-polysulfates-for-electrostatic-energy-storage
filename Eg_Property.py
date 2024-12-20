@@ -41,4 +41,5 @@ X = X_fingerprint
 
 prediction = model_1.predict(X)
 score =  prediction.mean(axis=1)
+df['Eg'] = score
 df.to_csv('Prediction_results_Eg.csv',index=False)
