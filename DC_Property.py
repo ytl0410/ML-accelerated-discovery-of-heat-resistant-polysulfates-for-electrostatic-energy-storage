@@ -56,4 +56,5 @@ X_MD = X_MD[Columns]
 
 prediction = model_1.predict(X_MD)
 score =  prediction.mean(axis=1)
+df['DC'] = score
 df.to_csv('Prediction_results_DC.csv',index=False)
