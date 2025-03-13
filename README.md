@@ -19,8 +19,14 @@ pip install seaborn==0.13.0
 
 To predict polymer properties using models specifically designed for polysulfates, save the dataframe containing the polymer's SMILES information into a .csv file, and then use a command like:
 
-`python Tg_Property.py xxx.csv`
+```
+python Tg_Property.py xxx.csv
+```
 
-`python Eg_Property.py xxx.csv`
+```
+python Eg_Property.py xxx.csv
+```
 
-`python DC_Property.py xxx.csv`
+```
+python DC_Property.py xxx.csv
+```
