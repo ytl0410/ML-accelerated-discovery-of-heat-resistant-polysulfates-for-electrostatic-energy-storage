@@ -1,5 +1,5 @@
 # ML-accelerated-discovery-of-heat-resistant-polysulfates-for-electrostatic-energy-storage
-Machine learning models and hypothetical polysulfates library for paper "Machine learning-accelerated discovery of heat-resistant polysulfates for electrostatic energy storage"
+Machine learning models and hypothetical polysulfates library for paper "Machine learning-accelerated discovery of heat-resistant polysulfates for electrostatic energy storage." https://www.nature.com/articles/s41560-024-01670-z
 
 The pre-trained models needed for prediction can be found at: https://zenodo.org/records/13714161
 
